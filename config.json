@@ -20,5 +20,62 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "지능형SW융합대학": {
+      "style": "glass",
+      "wall": "#d8dcdc",
+      "glass": "#2f7f96",
+      "frame": "#e4e8e9"
+    },
+    "미래혁신관": {
+      "style": "ribbon",
+      "wall": "#4f5359",
+      "glass": "#45617a",
+      "frame": "#b8bec4"
+    },
+    "ACE교육관": {
+      "style": "ribbon",
+      "wall": "#dcdcd8",
+      "glass": "#3f8c86",
+      "frame": "#c9ccca"
+    },
+    "중앙도서관": {
+      "style": "stone",
+      "wall": "#b9bdc1",
+      "glass": "#3e6f96",
+      "frame": "#9aa0a6"
+    },
+    "고운첨단과학기술연구원": {
+      "style": "tan",
+      "wall": "#b48e7b",
+      "glass": "#3c7f78",
+      "frame": "#d8d2c8"
+    },
+    "음악테크놀로지대학": {
+      "style": "stone",
+      "wall": "#e5e3de",
+      "glass": "#44525c",
+      "frame": "#c9c9c4"
+    },
+    "디자인앤아트대학": {
+      "style": "stone",
+      "wall": "#e3e1db",
+      "glass": "#3f4a52",
+      "frame": "#cfcec9"
+    },
+    "인문사회융합대학": {
+      "style": "ribbon",
+      "wall": "#ececea",
+      "glass": "#4b6470",
+      "frame": "#d7dada"
+    },
+    "제 2공학관": {
+      "style": "stone",
+      "wall": "#e7e7e3",
+      "glass": "#2f5e66",
+      "frame": "#c9cbc8"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
